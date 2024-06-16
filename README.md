@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, myself Priyanshu</h1>
+<h1 align="center">
+Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A Full Stack Developer and a DSA Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-etc&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-etc" /> </p>
